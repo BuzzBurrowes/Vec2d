@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For Fixedpoint
+# Syntax Coloring Map For Vec2d
 #######################################
 
 #######################################
@@ -8,7 +8,7 @@
 
 Vec2d	KEYWORD1
 Vec2dF	KEYWORD1
-VEC2dD	KEYWORD1
+Vec2dD	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
