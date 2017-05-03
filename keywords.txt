@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Fixedpoint
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Vec2d	KEYWORD1
+Vec2dF	KEYWORD1
+VEC2dD	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Set	KEYWORD2
+x	KEYWORD2
+y	KEYWORD2
+X	KEYWORD2
+Y	KEYWORD2
+Magnitude	KEYWORD2
+Normalized	KEYWORD2
+Dot	KEYWORD2
+RadiansTo	KEYWORD2   
+Rotate	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
