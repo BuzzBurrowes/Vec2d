@@ -24,6 +24,7 @@ Normalized	KEYWORD2
 Dot	KEYWORD2
 RadiansTo	KEYWORD2   
 Rotate	KEYWORD2
+Reflect	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)

@@ -87,6 +87,11 @@ public:
       mY = newY;
    }
 
+   void Reflect(const Vec2d<T>& surfaceNormal)
+   {
+      *this -= surfaceNormal*(this->Dot(surfaceNormal))*2;
+   }
+
 private:
    T mX;
    T mY;
